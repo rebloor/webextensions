@@ -1,0 +1,11 @@
+{
+
+  "manifest_version": 2,
+  "name": "dev panel illustration",
+  "version": "1.0",
+
+  "description": "Simple example showing a message within a devtools panel.",
+  
+  "devtools_page": "devtools-page.html"
+
+}

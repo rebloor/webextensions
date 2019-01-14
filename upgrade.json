@@ -3,7 +3,7 @@
     "bloor.com/test": {
       "updates": [
         { "version": "2.0",
-          "update_link": "https://github.com/rebloor/webextensions/version2.xpi" }
+          "update_link": "https://github.com/rebloor/webextensions/blob/master/web_page_annotator-2.0.xpi" }
       ]
     }
   }

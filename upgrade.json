@@ -1,0 +1,10 @@
+{
+  "addons": {
+    "bloor.com/test": {
+      "updates": [
+        { "version": "2.0",
+          "update_link": "https://github.com/rebloor/webextensions/version2.xpi" }
+      ]
+    }
+  }
+}

@@ -1,9 +1,11 @@
 {
   "addons": {
-    "bloor.com/test": {
+    "test@rebloor.com": {
       "updates": [
+        { "version": "1.0",
+          "update_link": "https://rebloor.github.io/webextensions/web_page_annotator-1.0.xpi" }
         { "version": "2.0",
-          "update_link": "https://github.com/rebloor/webextensions/blob/master/web_page_annotator-2.0.xpi" }
+          "update_link": "https://rebloor.github.io/webextensions/web_page_annotator-2.0.xpi" }
       ]
     }
   }
